@@ -1,2 +1,6 @@
 # second_prac
-hahahaha-----111111111111
+<<<<<<< HEAD
+
+
+hahahaha-------------2
+
